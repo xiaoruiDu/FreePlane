@@ -95,7 +95,12 @@
 <node TEXT="git commit -m &#x201c;Description of the commit&#x201d;" ID="ID_1146278627" CREATED="1570954254960" MODIFIED="1570954273489"/>
 <node TEXT="git push" ID="ID_1077448637" CREATED="1570954276199" MODIFIED="1570954358160"/>
 </node>
-<node TEXT="" ID="ID_488066993" CREATED="1570954047091" MODIFIED="1570954047091"/>
+<node TEXT="*git &#x653e;&#x5f03;&#x672c;&#x5730;&#x4fee;&#x6539;&#xff0c;&#x5f3a;&#x5236;&#x62c9;&#x53d6;&#x66f4;&#x65b0;" ID="ID_147541590" CREATED="1570955772007" MODIFIED="1570955790655">
+<node TEXT="git fetch --all                            //&#x6307;&#x4ee4;&#x662f;&#x4e0b;&#x8f7d;&#x8fdc;&#x7a0b;&#x4ed3;&#x5e93;&#x6700;&#x65b0;&#x5185;&#x5bb9;&#xff0c;&#x4e0d;&#x505a;&#x5408;&#x5e76;&#xa;git reset --hard origin/master   //&#x6307;&#x4ee4;&#x628a;HEAD&#x6307;&#x5411;master&#x6700;&#x65b0;&#x7248;&#x672c;&#xa;git pull" ID="ID_715423811" CREATED="1570955814565" MODIFIED="1570955879976"/>
+</node>
+<node TEXT="*&#x83b7;&#x53d6;&#x6307;&#x5b9a;&#x7684;&#x5386;&#x53f2;&#x7248;&#x672c;&#x4ee3;&#x7801;" ID="ID_488066993" CREATED="1570954047091" MODIFIED="1570955940133">
+<node TEXT="git clone git@github.com:skyming/BMAdScrollView.git&#xa;git checkout b0362a895d39061c0bc6f05c575af47de1b3f702" ID="ID_1275577988" CREATED="1570955949450" MODIFIED="1570955969309"/>
+</node>
 </node>
 </node>
 </map>
