@@ -50,7 +50,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="3"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="4"/>
 <node TEXT="1-&#x642d;&#x5efa;Git&#x4ed3;&#x5e93;" POSITION="right" ID="ID_737199084" CREATED="1570952607650" MODIFIED="1570954001271">
 <edge COLOR="#ff0000"/>
 <richcontent TYPE="NOTE">
@@ -114,10 +114,10 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 </node>
+<node TEXT="haod" ID="ID_250387677" CREATED="1571190965266" MODIFIED="1571190967769"/>
 </node>
 </node>
 </map>
